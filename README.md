@@ -16,3 +16,7 @@ pip install requests
 pip install requests pysodium
 pip install pynacl
 python run-auto.py
+
+
+
+![Tampilan](tampilan.png)
