@@ -19,4 +19,4 @@ python run-auto.py
 
 
 
-![Tampilan](tampilan.png)
+![Tampilan](pic/tampilan.png)
