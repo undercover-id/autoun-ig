@@ -18,4 +18,4 @@ pip install pynacl
 python run-auto.py
 
 
-
+Setelah berhasil di jalankan, masukkan password:vick.undercover untuk login.
