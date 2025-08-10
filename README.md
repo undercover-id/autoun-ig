@@ -8,9 +8,8 @@
 - install termux
 - open
 
-#### Instalasi di Termux:
 
-
+## Instalasi di Termux:
 pkg update -y && pkg upgrade -y
 termux-setup-storage
 pkg install git -y
