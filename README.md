@@ -16,6 +16,8 @@ pkg install git -y
 pkg install python python-pip -y
 pkg install clang make pkg-config -y
 pkg install libsodium libffi openssl -y
+python -m ensurepip
+pip install pynacl cryptography
 pip install --upgrade pip setuptools wheel
 git clone https://github.com/undercover-id/autoun-ig.git
 cd autoun-ig
