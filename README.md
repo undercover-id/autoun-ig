@@ -1,7 +1,9 @@
 # Tools Auto Unfollow Not Follback Account Instagram
 
-## Download APK Termux
-````
+## Instalasi
+
+```
+#Download termux
 - https://f-droid.org/id/packages/com.termux/
 - install termux
 - open
