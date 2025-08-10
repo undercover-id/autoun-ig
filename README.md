@@ -23,5 +23,6 @@ Setelah berhasil di jalankan, masukkan password:vick.undercover untuk login.
 
 
 Warning!!
-Tools ini masih dalam tahap pengembangan, guna menghindari cek point pada akun anda, tekan CTRL+C ketika pengecekan user yang anda ikuti telah mencapai 200 akun.
+Tools ini masih dalam tahap pengembangan.
+Guna menghindari cek point pada akun anda, tekan CTRL+C ketika pengecekan user yang anda ikuti telah mencapai 200 akun.
 Berikan jeda waktu kurang lebih 20-24 jam untuk menggunakan tools ini kembali.
